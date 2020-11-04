@@ -1,0 +1,6 @@
+## Put hostnames that would be honored for publish blob matching works.
+"retirement.johnhancock.com"
+"stg-retirement.johnhancock.com"
+"qa-retirement.johnhancock.com"
+"dev-retirement.johnhancock.com"
+

@@ -1,0 +1,8 @@
+## Put hostnames that would be honored for publish blob matching works.
+"origin-urlbuilder-jhinvestments-dev64.adobecqms.net"
+"origin-urlbuilder-jhinvestments-qa64.adobecqms.net"
+"origin-urlbuilder-jhinvestments-stg64.adobecqms.net"
+"urlbuilder-dev64.jhinvestments.com"
+"urlbuilder-qa64.jhinvestments.com"
+"urlbuilder-stg64.jhinvestments.com"
+""urlbuilder.jhinvestments.com"

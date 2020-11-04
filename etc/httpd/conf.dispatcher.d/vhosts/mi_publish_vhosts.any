@@ -1,0 +1,8 @@
+## Put hostnames that would be honored for publish blob matching works.
+"origin-mi-jhinvestments-dev64.adobecqms.net"
+"origin-mi-jhinvestments-qa64.adobecqms.net"
+"origin-mi-jhinvestments-stg64.adobecqms.net"
+"mi-dev64.jhinvestments.com"
+"mi-qa64.jhinvestments.com"
+"mi-stg64.jhinvestments.com"
+"mi.jhinvestments.com"

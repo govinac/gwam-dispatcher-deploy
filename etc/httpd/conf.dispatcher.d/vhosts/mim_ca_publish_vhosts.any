@@ -1,0 +1,19 @@
+## Put hostnames that would be honored for publish blob matching works.
+"retail.manulifeinvestmentmgmt.com"
+"stg-retail.manulifeinvestmentmgmt.com"
+"qa-retail.manulifeinvestmentmgmt.com"
+"dev-retail.manulifeinvestmentmgmt.com"
+"jhinv-dev-retail-manulifeinvestmentmgmt.adobecqms.net"
+"jhinv-qa-retail-manulifeinvestmentmgmt.adobecqms.net"
+"jhinv-stg-retail-manulifeinvestmentmgmt.adobecqms.net"
+"jhinv-prod-retail-manulifeinvestmentmgmt.adobecqms.net"
+"jhinv-prod-institutional-manulifeinvestmentmgmt.adobecqms.net"
+"institutional.manulifeinvestmentmgmt.com"
+"jhinv-stg-institutional-manulifeinvestmentmgmt.adobecqms.net"
+"stg-institutional.manulifeinvestmentmgmt.com"
+"jhinv-qa-institutional-manulifeinvestmentmgmt.adobecqms.net"
+"qa-institutional.manulifeinvestmentmgmt.com"
+"jhinv-dev-institutional-manulifeinvestmentmgmt.adobecqms.net"
+"dev-institutional.manulifeinvestmentmgmt.com"
+
+

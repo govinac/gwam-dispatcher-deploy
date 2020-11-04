@@ -1,0 +1,10 @@
+## Put hostnames that would be honored for publish blob matching works.
+"ucits.jhinvestments.com"
+"ucits-stg64.jhinvestments.com"
+"ucits-qa64.jhinvestments.com"
+"ucits-dev64.jhinvestments.com"
+"origin-ucits-jhinvestments-prod64.adobecqms.net"
+"origin-ucits-jhinvestments-stg64.adobecqms.net"
+"origin-ucits-jhinvestments-qa64.adobecqms.net"
+"origin-ucits-jhinvestments-dev64.adobecqms.net"
+"flush"

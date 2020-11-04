@@ -1,0 +1,13 @@
+## Put hostnames that would be honored for publish blob matching works.
+"insight.manulifeam.adobecqms.net"
+"insight-stg64.manulifeam.adobecqms.net"
+"insight-qa64.manulifeam.adobecqms.net"
+"insight-dev64.manulifeam.adobecqms.net"
+"insight-dev64.manulifeam.com"
+"insight-qa64.manulifeam.com "
+"insight-stg64.manulifeam.com"
+"insight.manulifeam.com"
+"insight.manulifeim.com"
+"insight-stg.manulifeim.com"
+"insight-qa.manulifeim.com"
+"insight-dev.manulifeim.com"

@@ -1,0 +1,13 @@
+## Put hostnames that would be honored for publish blob matching works.
+"ucits.manulifeinvestmentmgmt.com"
+"stage-ucits.manulifeinvestmentmgmt.com"
+"qa-ucits.manulifeinvestmentmgmt.com"
+"dev-ucits.manulifeinvestmentmgmt.com"
+"ucits.manulifeim.com"
+"ucits-dev.manulifeim.com"
+"ucits-qa.manulifeim.com"
+"ucits-stg.manulifeim.com"
+"origin-manulifeinvestmentmgmt-prod64.adobecqms.net"
+"origin-manulifeinvestmentmgmt-stage64.adobecqms.net"
+"origin-manulifeinvestmentmgmt-qa64.adobecqms.net"
+"origin-manulifeinvestmentmgmt-dev64.adobecqms.net"

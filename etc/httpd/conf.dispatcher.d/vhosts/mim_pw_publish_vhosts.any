@@ -1,0 +1,6 @@
+## Put hostnames that would be honored for publish blob matching works.
+"manulifeprivatewealth.com"
+"stg.manulifeprivatewealth.com"
+"qa.manulifeprivatewealth.com"
+"dev.manulifeprivatewealth.com"
+
