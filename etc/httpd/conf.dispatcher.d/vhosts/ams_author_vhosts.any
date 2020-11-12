@@ -1,3 +1,8 @@
 ## Put hostnames that would be honored for authors blob matching works.
+
 "author-*"
-"${AUTHOR_DEFAULT_HOSTNAME}"
+"${AUTHOR_DEFAULT_HOSTNAME}" 
+
+## Test End
+
+
